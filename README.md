@@ -1,16 +1,19 @@
 ## Hi there 👋
+I'm Noah! I am studying Data Analytics at Ohio State University. I am currently working on sports analytics projects as well as assigned statistics projects. I am also searching for a job. Feel free to give any tips or reach out!
 
-<!--
-**noahekness/noahekness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack ⌨️
+- SQL
+- R
+- Python
+- Tableau
+- Excel
+- Power BI
+- Javascript and D3 (in progress)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 🫶
+- Fitness
+- Sports
+- Finance
+- Film
+- Music (all kinds)
+- Snowboarding
