@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 I'm Noah! I am studying Data Analytics at Ohio State University. I am currently working on sports analytics projects as well as assigned statistics projects. I am also searching for a job. Feel free to give any tips or reach out!
 
 ## Stack ⌨️
