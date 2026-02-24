@@ -10,6 +10,11 @@ I'm Noah! I am studying Data Analytics at Ohio State University. I am currently 
 - Power BI
 - Javascript and D3 (in progress)
 
+## Education 👨‍🏫
+- The Ohio State University, OH
+- Eden Prairie High School, MN
+- Certificates on many online platforms
+
 ## Interests 🫶
 - Fitness
 - Sports
