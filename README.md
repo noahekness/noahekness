@@ -1,14 +1,17 @@
 ## About Me 👋
-I'm Noah! I am studying Data Analytics at Ohio State University. I am currently working on sports analytics projects as well as assigned statistics projects. I am also searching for a job. Feel free to give any tips or reach out!
+I'm Noah! I am a new-grad and now working in the AI tech space.
 
 ## Stack ⌨️
+- RAG
+- LLM
+- AI Security & Governance
+- System Architecture
 - SQL
 - R
 - Python
 - Tableau
 - Excel
 - Power BI
-- Javascript and D3 (in progress)
 
 ## Education 👨‍🏫
 - The Ohio State University, OH
